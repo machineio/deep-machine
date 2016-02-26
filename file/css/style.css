@@ -1030,3 +1030,7 @@ sup {
 #color-side-menu {
     background-color: #699558;
 }
+
+.about-text-justified {
+  text-align: justify;
+}
