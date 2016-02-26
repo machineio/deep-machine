@@ -102,7 +102,7 @@ button:focus {
   color: #ffffff;
 }
 ::-moz-selection {
-  background: #ff1f1f;
+  background: #333333;
   color: #ffffff;
 }
 /* 3.0 Typography 
