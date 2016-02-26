@@ -23,9 +23,15 @@
 	color: #999;
 }
 
-#idea1 {
+.idea1-div {
     background: #333333;
-    padding: 150px;
+    padding-bottom: 150px;
+    padding-top: 65px;
+}
+
+.idea2-div {
+    background: #F1F1F1;
+    padding-bottom: 150px;
     padding-top: 65px;
 }
 
