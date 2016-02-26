@@ -1034,3 +1034,7 @@ sup {
 .about-text-justified {
   text-align: justify;
 }
+
+.text-center-about {
+  text-align: center;
+}
