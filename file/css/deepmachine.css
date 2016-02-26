@@ -1,0 +1,15 @@
+.about-text-justified {
+  text-align: justify;
+}
+
+.text-center-about {
+  text-align: center;
+}
+
+.about-content {
+    margin: 20px 0px;
+}
+
+.about-color {
+	color: #86A07C;
+}
