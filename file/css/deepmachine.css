@@ -18,14 +18,17 @@
     padding: 50px 0px;
 }
 
-<<<<<<< HEAD
+
 .content-about-deepmachine {
 	color: #ffffff;
 }
-=======
+
 .idea1 {
     background: #333333;
     padding: 150px;
     padding-top: 65px;
 }
->>>>>>> f8d592b2d92427fb6ed2709ae27c00022351736d
+
+.list-content-about-deep {
+    font-size: 13px;
+}
