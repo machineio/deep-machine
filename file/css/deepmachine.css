@@ -23,9 +23,9 @@
 	color: #ffffff;
 }
 
-#idea1 {
+.idea1 {
     background: #333333;
-    padding: 150px;
+    padding-bottom: 150px;
     padding-top: 65px;
 }
 
