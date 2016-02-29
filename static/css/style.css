@@ -545,7 +545,7 @@ ul {
 .price-table:hover,
 .price-table:focus,
 .price-table.active {
-  background: #ddd;
+  background: #eee;
 }
 .price-table:hover .packege,
 .price-table:focus .packege,
