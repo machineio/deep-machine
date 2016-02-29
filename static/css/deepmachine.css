@@ -51,7 +51,7 @@
 }
 
 .content-binary-deepmachine {
-    color: #CCC;
+    color: #333333;
 }
 
 .margin-text-memberships {
@@ -70,5 +70,16 @@
 }
 
 .color-questions-deepmachine h2 {
-    color: #CCC;
+    color: #333333;
+}
+
+.deppmachine-binary-content {
+    background: #333333;
+
+}
+
+.background-binary-content {
+    background: #ccc;
+    padding-bottom: 150px;
+    padding-top: 65px;
 }
