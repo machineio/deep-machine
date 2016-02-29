@@ -7,10 +7,13 @@
 }
 
 .right-content-content-deep {
-	font-weight: 600;
-    font-size: 36px;
+	
     margin-bottom: 20px;
+<<<<<<< HEAD
 	color: #999;
+=======
+	
+>>>>>>> ee32e674f7a65c79d5fd09693f2604fcda94cf58
 }
 
 .feature-about-deepmachine {
@@ -37,4 +40,8 @@
 
 .list-content-about-deep {
     font-size: 13px;
+}
+
+.margin-deep {
+    margin-bottom: 20px;
 }
