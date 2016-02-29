@@ -48,10 +48,12 @@
     margin-top: 20px;
 }
 
-.margin-text-memberships {
-    margin-bottom: 10px;
-}
-
 .content-binary-deepmachine {
     color: rgb(255, 255, 255);
+}
+
+.margin-text-memberships {
+    margin-bottom: 30px;
+    font-weight: 500;
+    font-size: 30px;
 }
