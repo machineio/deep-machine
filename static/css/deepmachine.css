@@ -61,3 +61,8 @@
 .content-about-deepmachine-grey {
     color: #333333;
 }
+
+.p-membership-bold {
+    font-weight: 500;
+    margin-bottom: 30px;
+}
