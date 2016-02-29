@@ -10,17 +10,19 @@
 	
     margin-bottom: 20px;
 
-	color: #CCC;
+	color: #333333;
 }
 
 .feature-about-deepmachine {
-    background: #333333;
+    background: #F1F1F1;
     padding: 50px 0px;
 }
 
-
+.content-memberships-deepmachine {
+    color: #ccc;
+}
 .content-about-deepmachine {
-	color: #CCC;
+	color: #333333;
 }
 
 .idea1-div {
@@ -49,7 +51,7 @@
 }
 
 .content-binary-deepmachine {
-    color: #CCC;
+    color: #333333;
 }
 
 .margin-text-memberships {
@@ -68,5 +70,16 @@
 }
 
 .color-questions-deepmachine h2 {
-    color: #CCC;
+    color: #333333;
+}
+
+.deppmachine-binary-content {
+    background: #333333;
+
+}
+
+.background-binary-content {
+    background: #F1F1F1;
+    padding-bottom: 150px;
+    padding-top: 65px;
 }
