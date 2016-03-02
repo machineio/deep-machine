@@ -93,6 +93,13 @@
     margin-bottom: 30px;
 }
 
-.image-width-ic{
+.image-width-ic {
     width: 75px;
+}
+
+.prueba-ultima {
+    width: 90px;
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-right: 12px;
 }
