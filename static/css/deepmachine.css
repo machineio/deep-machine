@@ -105,6 +105,12 @@
     margin-right: 12px;
 }
 
+.icon-index2 {
+    width: 90px;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
 .border-green {
     border-color: #699558;
 }
