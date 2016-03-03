@@ -133,6 +133,12 @@
 }
 
 .margin-contact-phonenumber {
-    margin-top: 30px;
+    margin-top: 16px;
     margin-left: 169px;
+}
+
+.margin-contact-text {
+    margin-top: 30px;
+    margin-left: 30px;
+    color: #ffffff;
 }
