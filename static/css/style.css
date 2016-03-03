@@ -382,17 +382,6 @@ ul {
   padding: 10px 33px;
 }
 
-.button2 {
-    background: #699558;
-    text-transform: uppercase;
-    font-weight: 400;
-    letter-spacing: 1px;
-    color: #ffffff;
-    border: 0px;
-    line-height: 25px;
-    padding: 10px 33px;
-}
-
 .button:hover,
 .button:focus,
 .button.active {
